@@ -9,3 +9,5 @@
 1.3 [Методы классов](https://colab.research.google.com/drive/1ipvAY9KSa-Mm9VnUdionRq8VQ5_KSXXY?usp=sharing).
 
 2. [ Лекция 2]().
+
+[Индивидуальное задание 1](https://colab.research.google.com/drive/1UKv02po4v-iO0VZZFbqwqVXF9OrBesZg?usp=sharing).
