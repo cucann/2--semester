@@ -11,3 +11,5 @@
 2. [ Лекция 2]().
 
 [Индивидуальное задание 1](https://colab.research.google.com/drive/1UKv02po4v-iO0VZZFbqwqVXF9OrBesZg?usp=sharing).
+
+[Индивидуальное задание 2](https://colab.research.google.com/drive/1TJzl5ivBfbHp9B0_9Vanz5PgIx3pqMtp?usp=sharing).
