@@ -13,3 +13,5 @@
 [Индивидуальное задание 1](https://colab.research.google.com/drive/1UKv02po4v-iO0VZZFbqwqVXF9OrBesZg?usp=sharing).
 
 [Индивидуальное задание 2](https://colab.research.google.com/drive/1TJzl5ivBfbHp9B0_9Vanz5PgIx3pqMtp?usp=sharing).
+
+2. [Наследование](https://colab.research.google.com/drive/1Uf3wMi-5-xzuq53kSHA1p9LKgk7idrOL?usp=sharing).
