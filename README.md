@@ -15,3 +15,4 @@
 [Индивидуальное задание 2](https://colab.research.google.com/drive/1TJzl5ivBfbHp9B0_9Vanz5PgIx3pqMtp?usp=sharing).
 
 2. [Наследование](https://colab.research.google.com/drive/1Uf3wMi-5-xzuq53kSHA1p9LKgk7idrOL?usp=sharing).
+3. [Инкапсуляция](https://colab.research.google.com/drive/1K6jbAZhiw_eQ94ZUpAtOcOTDCSJQL8hx?usp=sharing).
